@@ -14,12 +14,7 @@ const firebaseConfig = {
     messagingSenderId: import.meta.env.VITE_messagingSenderId,
     appId: import.meta.env.VITE_appId,
 
-    //   apiKey: "AIzaSyCc3_yNAasi2Fwx7ZzY7A76uK9Ce6QOxfY",
-    //   authDomain: "bistro-boss-12919.firebaseapp.com",
-    //   projectId: "bistro-boss-12919",
-    //   storageBucket: "bistro-boss-12919.firebasestorage.app",
-    //   messagingSenderId: "906788897116",
-    //   appId: "1:906788897116:web:1c3d3ad349c87b15000199"
+   
 };
 
 // Initialize Firebase
