@@ -1,4 +1,4 @@
-import { FaAd, FaHamburger, FaHome, FaHSquare, FaShoppingCart } from "react-icons/fa";
+import { FaAd, FaHamburger, FaHome, FaShoppingCart } from "react-icons/fa";
 import { FaBook, FaCalendar, FaEnvelope, FaList, FaShop, FaUsers, FaUtensils } from "react-icons/fa6";
 import { NavLink, Outlet } from "react-router-dom";
 import useCart from "../hooks/useCart";
